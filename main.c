@@ -2,8 +2,8 @@
 
 int main()
 {
-int a=1,b=2;
-printf("%d %d \n",a,b);
+int c=1,d=2;
+printf("%d %d \n",c,d);
 
 return (0);
 }
